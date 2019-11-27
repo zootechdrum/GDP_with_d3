@@ -1,0 +1,56 @@
+body{
+  background-color: #2f2fa2;
+     position:relative;
+}
+
+#graph {
+  margin-top: 40px;
+  text-align:center;
+}
+
+#title{
+  color: #fff;
+  margin-bottom:50px;
+  border-bottom: 5px;
+}
+
+.bar {
+  fill: #f64c72;
+
+}
+
+.active{
+  fill:red;
+}
+
+div.tooltip {		
+    position:absolute;
+    text-align: center;			
+    width: 60px;					
+    height: 48px;					
+    padding: 2px;				
+    font: 12px sans-serif;		
+    background: lightsteelblue;	
+    border: 0px;		
+    border-radius: 8px;			
+    pointer-events: none;
+    fill:red;
+}
+ul {
+  color: #fff;
+  font-weight:600;
+}
+
+li{
+  padding: 5px;
+}
+
+.freeIcon{
+  font-size: 95px;
+  color: #fff;
+}
+
+#userTitle{
+  margin-bottom: 10px;
+  color: #99738e;
+}
