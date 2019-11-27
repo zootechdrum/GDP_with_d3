@@ -3,7 +3,7 @@
 
  ## Description 
  This project was originally completed in Codepen. This project was created to
- eventually get my Data Visulaization cert offered by FreeCodeCamp.
+ eventually get my Data Visulaization cert offered by FreeCodeCamp. The reason for the low amount of commits is because I consistantly worked on this project on Codepen and not in my Text Editor. 
 
  ## The Technologies I used to complete this project were :
 
